@@ -1,3 +1,6 @@
 # Mac specitic files
 .DS_Store
 
+# Scala files
+*.class
+*.scala~
